@@ -10,7 +10,7 @@ export default function Home() {
             {/*    <Image src={Logo} alt="Logo" width={200} height={200} />*/}
             {/*</div>*/}
 
-            <div className="flex flex-row items-center space-x-2 mt-64">
+            <div className="flex flex-row items-center space-x-8 mt-64">
                 <a href="https://discord.gg/hqsSBhMzpr">
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-5 rounded">
                         Discord
